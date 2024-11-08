@@ -14,10 +14,4 @@ i{
 
 .route i{
     margin: 20px 20px;
-    padding: 10px 10px;
-    border: 1px solid gray;
-    background-color: gainsboro;
-    color: black;
-    border-radius: 4px;
-    cursor: pointer;
 }

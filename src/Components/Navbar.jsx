@@ -21,8 +21,7 @@ export default function Navbar() {
                  <a href=""><li>Review</li></a>
                  <a href=""><li>Blogs</li></a>
                  <a href=''><li>Login</li></a>
-                 <i class="fa-solid fa-magnifying-glass fa-1x"></i>
-                 <i class="fa-solid fa-user fa-1x"></i>
+                 <i class="fa-solid fa-magnifying-glass fa-1x"></i><input type="search" />
                 </ul>
               </div>
             </div>
