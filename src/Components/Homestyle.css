@@ -1,13 +1,8 @@
-.image img{
-    background-size: cover;
-    width: auto;
-    height: 0%;
-}
-.image img::after{
-    content: '';
-    top: 0;
-    left: 0;
+.bg-image{
+    background-image: url("https://img.freepik.com/premium-photo/organic-food-vegetables-basket_135427-2728.jpg");
     width: 100%;
-    height: 100%;
-    position: absolute;
+    height: 65vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
