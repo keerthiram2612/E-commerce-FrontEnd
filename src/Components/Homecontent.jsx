@@ -14,15 +14,6 @@ export default function Homecontent() {
           <button>Shop Now</button>
         </div>
         </div>
-        <div className="container">
-          <div className="row">
-            <div className="col-md-12">
-              <div className="home text-center">
-                
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   )
