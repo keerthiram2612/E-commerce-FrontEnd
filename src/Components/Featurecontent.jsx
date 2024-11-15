@@ -21,7 +21,7 @@ export default function Featurecontent() {
                  <div className="col-md-4 icons2">
                  <div className="organic-food text-center">
                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0TtfZ6jnU8rfhppM1wenCWxxMF96O-5N2g&s" alt="" />
-                 <h3 className='text-center'>Fresh and Organic</h3>
+                 <h3 className='text-center'>Free Delivery</h3>
                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, doloribus?</p>
                  <button>Read More</button>
                  </div>
@@ -31,7 +31,7 @@ export default function Featurecontent() {
                  <div className="col-md-4 icons3">
                  <div className="organic-food text-center">
                  <img src="https://png.pngtree.com/png-vector/20220622/ourmid/pngtree-payment-terminal-color-icon-png-image_5254704.png" alt="" />
-                 <h3 className='text-center'>Fresh and Organic</h3>
+                 <h3 className='text-center'>Easy Payments</h3>
                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, doloribus?</p>
                  <button>Read More</button>
                  </div>

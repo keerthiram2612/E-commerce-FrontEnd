@@ -2,13 +2,13 @@
     width: 200px;
 }
 .icons1:hover{
-    border:1px solid black;
+    border:2px solid black;
 }
 .icons2:hover{
-    border:1px solid black;
+    border:2px solid black;
 }
 .icons3:hover{
-    border:1px solid black;
+    border:2px solid black;
 }
 .icons{
     margin: 30px 0;
@@ -16,8 +16,8 @@
 .icons button{
     padding: 10px 20px;
     margin: 20px 0;
-    color: white;
-    background-color: red;
-    border: 1px solid black;
+    color: red;
+    background-color: white;
+    border-color: red;
 
 }
