@@ -4,7 +4,15 @@
 .products-pic1 img{
     width: 300px;
 }
-span{
+.icons span{
     background-color: red;
     
+}
+.products-pic:hover{
+    border: 2px solid black;
+    margin: 20px 0;
+}
+.products-pic1:hover{
+    border: 2px solid black;
+    margin: 20px 0;
 }

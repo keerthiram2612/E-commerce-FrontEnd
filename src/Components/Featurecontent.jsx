@@ -6,7 +6,7 @@ export default function Featurecontent() {
       <div className="feature">
         <div className="container">
             <div className="row">
-                <h2 className='text-center'>Our <span>Features</span></h2>
+                <h2 className='text-center text-organic'>Our <span>Features</span></h2>
                  <div className="icons">
                  <div className="col-md-4 icons1">
                  <div className="organic-food text-center">
