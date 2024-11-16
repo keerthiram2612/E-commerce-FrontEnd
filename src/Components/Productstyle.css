@@ -1,3 +1,10 @@
 .products-pic img{
     width: 200px;
 }
+.products-pic1 img{
+    width: 300px;
+}
+span{
+    background-color: red;
+    
+}
