@@ -1,0 +1,11 @@
+.categories-content button{
+    padding: 10px 20px;
+    border: 2px solid red;
+    color: red;
+}
+.icons-cate img{
+   width: 300px;
+}
+.icons-cate1 img{
+    width: 230px;
+}
