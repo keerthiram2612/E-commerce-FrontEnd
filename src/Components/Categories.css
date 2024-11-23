@@ -23,18 +23,25 @@
 .icons-cate2{
     background-color: white;
     padding: 20px 0;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
 }
 .icons-cate3{
     background-color: white;
     padding: 20px 0;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
 }
 .icons-cate4{
     background-color: white;
     padding: 20px 0;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
 }
 .icons-cate4 img{
     width: 220px;
+}
+.categories-content h2{
+   margin: 20px 0;
+   
+}
+.categories-content h2 span{
+    background-color: red;
 }

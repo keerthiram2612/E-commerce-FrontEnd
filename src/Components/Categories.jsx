@@ -9,7 +9,7 @@ export default function Categories() {
           <div className="container">
             <div className="row">
               <div className="categories-content">
-                <h2 className='text-center'>Our Categories</h2>
+                <h2 className='text-center'>Our <span>Categories</span></h2>
                 <div className="col-md-3 text-center icons-cate1">
                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkh9uKBm3RaKsKryAzFbinEWYJU8NnSO5TW66hV-8qLgBQ53Yp631uVnNzpULGynLrsE&usqp=CAU" alt="" />
                   <h4 className='text-center'>Organic Vegetables</h4>
