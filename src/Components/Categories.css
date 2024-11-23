@@ -3,9 +3,38 @@
     border: 2px solid red;
     color: red;
 }
-.icons-cate img{
-   width: 300px;
+.icons-cate1{
+    background-color: white;
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
-.icons-cate1 img{
-    width: 230px;
+.icons-cate1:hover{
+    border: 2px solid black;
+}
+.icons-cate2:hover{
+    border: 2px solid black;
+}
+.icons-cate3:hover{
+    border: 2px solid black;
+}
+.icons-cate4:hover{
+    border: 2px solid black;
+}
+.icons-cate2{
+    background-color: white;
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.icons-cate3{
+    background-color: white;
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.icons-cate4{
+    background-color: white;
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.icons-cate4 img{
+    width: 220px;
 }

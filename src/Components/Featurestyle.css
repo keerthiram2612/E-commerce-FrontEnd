@@ -1,6 +1,15 @@
 .organic-food img{
     width: 200px;
 }
+.icons1{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.icons2{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.icons3{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
 .icons1:hover{
     border:2px solid black;
 }

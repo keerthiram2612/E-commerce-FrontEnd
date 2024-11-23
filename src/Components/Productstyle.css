@@ -1,6 +1,12 @@
 .products-pic img{
     width: 200px;
 }
+.products-pic{
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.products-pic1{
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.3);
+}
 .products-pic1 img{
     width: 300px;
 }
