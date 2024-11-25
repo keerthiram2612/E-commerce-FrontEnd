@@ -14,8 +14,8 @@ export default function Navbar() {
             <div className="col-md-10">
               <div className="navbar">
                 <ul className='route'>
-                 <a href="home"><li>Home</li></a>
-                 <a href="/Features"><li>Features</li></a>
+                 <a href="/"><li>Home</li></a>
+                 <a href="feature"><li>Features</li></a>
                  <a href=""><li>Products</li></a>
                  <a href=""><li>Categories</li></a>
                  <a href=""><li>Review</li></a>

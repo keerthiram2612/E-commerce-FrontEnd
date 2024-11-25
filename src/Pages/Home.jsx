@@ -4,6 +4,7 @@ import Homecontent from "../Components/Homecontent"
 import Featurecontent from '../Components/Featurecontent'
 import Products from '../Components/Products'
 import Categories from '../Components/Categories'
+import Review from '../Components/Review'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
        <Featurecontent/>
        <Products/>
        <Categories/>
+       <Review/>
     </div>
   )
 }
