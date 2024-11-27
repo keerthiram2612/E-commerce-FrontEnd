@@ -1,5 +1,6 @@
 import React from 'react'
 import "./Productstyle.css"
+import ScrollImage from './ScrollImage'
 export default function Products() {
   return (
     <div>
@@ -35,6 +36,9 @@ export default function Products() {
                             <button>Add to Cart</button>
                         </div>
                     </div>
+                </div>
+                <div className="scroll">
+                    <ScrollImage/>
                 </div>
             </div>
          </div>

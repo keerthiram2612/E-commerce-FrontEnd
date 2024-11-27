@@ -16,10 +16,10 @@ export default function Navbar() {
                 <ul className='route'>
                  <a href="/"><li>Home</li></a>
                  <a href="feature"><li>Features</li></a>
-                 <a href=""><li>Products</li></a>
+                 <a href="product"><li>Products</li></a>
                  <a href=""><li>Categories</li></a>
                  <a href=""><li>Review</li></a>
-                 <a href=""><li>Blogs</li></a>
+                 <a href=""><li>Cart</li></a>
                  <a href=''><li>Login</li></a>
                  <i class="fa-solid fa-magnifying-glass fa-1x"></i><input className='text-center' type="search" placeholder='Search'/>
                 </ul>
