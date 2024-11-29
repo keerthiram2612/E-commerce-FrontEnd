@@ -5,6 +5,7 @@ import Featurecontent from '../Components/Featurecontent'
 import Products from '../Components/Products'
 import Categories from '../Components/Categories'
 import Review from '../Components/Review'
+import Footer from '../Components/Footer'
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
        <Products/>
        <Categories/>
        <Review/>
+       <Footer/>
     </div>
   )
 }

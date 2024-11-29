@@ -1,7 +1,9 @@
+
 import React from 'react'
 import "./Productstyle.css"
 import ScrollImage from './ScrollImage'
-export default function Products() {
+
+export default function Productcontent() {
   return (
     <div>
       <div className="products">
@@ -37,6 +39,9 @@ export default function Products() {
                         </div>
                     </div>
                 </div>
+                <div className="scroll">
+               <ScrollImage/>
+                 </div>
             </div>
          </div>
       </div>

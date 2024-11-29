@@ -35,7 +35,6 @@ export default function ScrollImage() {
                     <button className='image-btn' onClick={()=> alert(`Clicked on Image ${index+1}`)}>
                     Add to cart
                 </button>
-
                 </div>
             ))}
         </div>
