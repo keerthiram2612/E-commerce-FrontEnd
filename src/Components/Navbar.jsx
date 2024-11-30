@@ -8,7 +8,7 @@ export default function Navbar() {
         <div className="row">
             <div className="col-md-2">
             <div className="logo">
-            <i class="fa-solid fa-basket-shopping fa-2x">Groco</i>
+            <i class="fa-solid fa-basket-shopping fa-2x">Grocie</i>
             </div>
             </div>
             <div className="col-md-10">
@@ -17,10 +17,10 @@ export default function Navbar() {
                  <a href="/"><li>Home</li></a>
                  <a href="feature"><li>Features</li></a>
                  <a href="product"><li>Products</li></a>
-                 <a href=""><li>Categories</li></a>
-                 <a href=""><li>Review</li></a>
+                 <a href="categories"><li>Categories</li></a>
+                 <a href="review"><li>Review</li></a>
                  <a href=""><li>Cart</li></a>
-                 <a href=''><li>Login</li></a>
+                 <a href='login'><li>Login</li></a>
                  <i class="fa-solid fa-magnifying-glass fa-1x"></i><input className='text-center' type="search" placeholder='Search'/>
                 </ul>
               </div>

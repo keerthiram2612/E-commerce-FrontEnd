@@ -8,7 +8,7 @@ export default function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-3">
-                        <h2>Groco<i class="fa-solid fa-basket-shopping fa"></i></h2>
+                        <h2>Grocie<i class="fa-solid fa-basket-shopping fa"></i></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus nulla atque deleniti autem quas veritatis.</p>
                         <div className="footer-icons">
                         <i class="fa-brands fa-facebook fa-1x"></i><i class="fa-brands fa-instagram fa-1x"></i><i class="fa-brands fa-twitter fa-1x"></i><i class="fa-brands fa-linkedin"></i>

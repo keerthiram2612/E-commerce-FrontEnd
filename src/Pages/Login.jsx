@@ -1,13 +1,13 @@
 import React from 'react'
 import Navbar from '../Components/Navbar'
-import Productcontent from '../Components/Productcontent'
+import Loginpage from '../Components/Loginpage'
 import Footer from '../Components/Footer'
 
-export default function Product() {
+export default function Login() {
   return (
     <div>
       <Navbar/>
-      <Productcontent/>
+      <Loginpage/>
       <Footer/>
     </div>
   )
