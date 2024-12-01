@@ -19,7 +19,7 @@ export default function Navbar() {
                  <a href="product"><li>Products</li></a>
                  <a href="categories"><li>Categories</li></a>
                  <a href="review"><li>Review</li></a>
-                 <a href=""><li>Cart</li></a>
+                 <a href="cart"><li>Cart</li></a>
                  <a href='login'><li>Login</li></a>
                  <i class="fa-solid fa-magnifying-glass fa-1x"></i><input className='text-center' type="search" placeholder='Search'/>
                 </ul>
