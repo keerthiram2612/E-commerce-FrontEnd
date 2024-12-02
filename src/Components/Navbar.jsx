@@ -1,17 +1,28 @@
 import React from 'react'
 import "./Navbarstyle.css"
+import { useState } from 'react';
 
 export default function Navbar() {
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const toggleMenu = () => {
+    setIsMenuOpen(!isMenuOpen);
+  };
   return (
     <div className='navbar'>
       <div className="container">
         <div className="row">
+           {/* Logo Section */}
             <div className="col-md-2">
             <div className="logo">
             <i class="fa-solid fa-basket-shopping fa-2x">Grocie</i>
             </div>
             </div>
-            <div className="col-md-10">
+            <div className="col-md-10 text-end d-md-none">
+            <button className="menu-toggle-btn" onClick={toggleMenu}>
+              <i className={`fa-solid ${isMenuOpen ? 'fa-xmark' : 'fa-bars'} fa-2x`}></i>
+            </button>
+          </div>
+            <div  className={`col-md-10 ${isMenuOpen ? 'menu-open' : 'menu-closed'}`}>
               <div className="navbar">
                 <ul className='route'>
                  <a href="/"><li>Home</li></a>
